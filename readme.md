@@ -22,11 +22,13 @@ This is a simple javascript script that checks the status of a user's subscripti
 
 ## Example Output
 
+```sh
 Test Case (Expired): Your subscription has ended.
 Test Case (Ending Soon): Your subscription is active. 2 day(s) remaining.
 Test Case (Active): Your subscription is active. 259 day(s) remaining.
 Test Case (Ending Today): Your subscription ends today.
 Test Case (Short Subscription): Your subscription is active. 25 day(s) remaining.
+```
 
 ## Notes
 
